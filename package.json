@@ -1,0 +1,17 @@
+{
+  "name": "auth0-rs256-cert-uploader",
+  "version": "0.1.0",
+  "description": "A CLI tool to upload your own signing certificates to an Auth0 application",
+  "main": "index.js",
+  "authors": [
+    "Sandrino Di Mattia"
+  ],
+  "license": "MIT",
+  "homepage": "http://auth0.com",
+  "dependencies": {
+    "async": "^0.9.0",
+    "auth0": "^0.8.0",
+    "logdown": "^1.0.8",
+    "nconf": "^0.7.1"
+  }
+}
