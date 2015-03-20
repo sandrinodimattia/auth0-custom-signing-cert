@@ -2,7 +2,7 @@
 
 Small utility to upload custom signing certificates to Auth0.
 
-## Appending: Generating a Self Signed Certificate
+## Appendix: Generating a Self Signed Certificate
 
 `brew install openssl`
 
