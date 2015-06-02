@@ -2,6 +2,8 @@
 
 Small utility to upload custom signing certificates to Auth0. Update the config.json file to reference your Auth0 account and certificates.
 
+After configuration, just run `node index`
+
 ## Appendix: Generating a Self Signed Certificate
 
 `brew install openssl`
