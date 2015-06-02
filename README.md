@@ -1,6 +1,6 @@
 # Auth0 Custom Signing Certificate
 
-Small utility to upload custom signing certificates to Auth0.
+Small utility to upload custom signing certificates to Auth0. Update the config.json file to reference your Auth0 account and certificates.
 
 ## Appendix: Generating a Self Signed Certificate
 
